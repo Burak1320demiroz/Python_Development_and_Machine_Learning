@@ -1,1 +1,27 @@
 # Conditional Statements
+- if
+- elif
+- else
+- match-case --> In Python 3.10 and later, you can use match-case as an alternative to switch-case.
+- pass --> Used to leave an empty code block.
+- continue --> Returns to the beginning of the loop and does not execute the following lines.
+- break --> Completes the loop completely.
+- Mathematical Operator
+    - "+"
+    - "-"	
+    - "*"	
+    - "/"	
+    - "//"	
+    - "%"	
+    - "**"
+- Condition Operator
+    - ">"
+    - "<"
+    - "=="
+    - "!="
+    - "<="
+    - ">="
+- Logical Operators
+    - and --> Returns True if both conditions are true.
+    - or --> Returns True if at least one is true
+    - not --> Gets the opposite of the condition

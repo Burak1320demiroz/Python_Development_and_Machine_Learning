@@ -2,8 +2,7 @@
 - Variables and Data Types
 - Lists
 - Conditional Statements
-
-Döngüler
-Fonksiyonlar
-Sınıflar ve Nesneler
-Dosya İşlemleri
+- Cycles
+- Functions
+- Classes
+- File Operations
