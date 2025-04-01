@@ -1,0 +1,37 @@
+# Lists
+### Allows storing multiple data types in a single collection
+- List (Liste)
+    - Mutable
+    - Ordered
+    - Can contain different types of data
+    - Nested Lists
+- Tuple (Demet)
+    - Immutable
+    - Ordered
+    - Can contain different types of data
+    - It is faster
+- Set (Küme)
+    - Mutable
+    - Unordered
+    - Unique --> The same element cannot occur twice
+    - Mathematical set operations can be performed.
+- Frozenset (Değiştirilemez Küme)
+    - Immutable
+    - Unordered
+    - Unique --> The same element cannot occur twice
+    - Mathematical set operations can be performed.
+- Dictionary (Sözlük)
+    - Mutable
+    - Anahtar (Key) --> Değer (Value)
+    - Unordered
+    - Unique --> The same element cannot occur twice
+    - Python 3.7 and later preserves the order
+- Range (Aralık)
+    - It does not take up much space in memory, it only stores the start and end values.
+- Byte
+    - Immutable
+    - It is used in file operations and network programming.
+- Bytearray
+    - Mutable
+    - It is used in file operations and network programming.
+
