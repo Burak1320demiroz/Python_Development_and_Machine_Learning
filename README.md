@@ -1,8 +1,14 @@
-# Python Development
-- Variables and Data Types
-- Lists
-- Conditional Statements
-- Cycles
-- Functions
-- Classes
-- File Operations
+# Python Development and Machine Learning
+- Data Types (Veri Türleri)
+- Data Structures (Veri Yapıları)
+- Conditional Statements and Loops (Koşullu İfadeler ve Döngüler)
+- Operators
+
+- Functions (Fonksiyonlar)
+- Classes (Sınıflar)
+- NumPy
+- Pandas
+- Mathplotlib
+- Seaborn
+
+- PyTorch

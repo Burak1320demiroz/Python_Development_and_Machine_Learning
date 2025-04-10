@@ -1,4 +1,4 @@
-# Lists
+# Data Structures
 ### Allows storing multiple data types in a single collection
 - List (Liste)
     - Mutable
